@@ -1,0 +1,67 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.ican{
+    background-color: #86A51B;
+
+}
+.bgk{background:url(../image/display.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+#drop:hover{
+    background-color: #86A51B;   
+}
+#frame{
+    padding-bottom:130px ;
+
+}
+
+a{ text-decoration:none !important
+
+
+}
+
+.tellme{
+    background-color: #86A51B;
+    
+}
+.borderx{border-style: solid;
+    
+
+}
+#green  {background-color: #86A51B !important
+}
+
+.text {color: #86A51B;
+}
+#born {background-color: #86A51B !important;
+    border-style: none;
+    
+
+}
+
+#icon{color: #86A51B !important;
+    border-style: none;
+
+}
+.colour{
+    color: #86A51B;
+}
+
+/* footer */
+#foot{
+    background-color: #2D3E50;
+}
+.link{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    background-color: #86A51B;
+    color: #ffff;
+    border: 1px solid #86A51B;
+    border-radius: 5px;
+}
